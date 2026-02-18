@@ -6,7 +6,6 @@ import time
 import urllib.parse
 
 VPN_HOST = "202.170.220.26"
-GROUP = "MSH-Employees"
 
 # 构造 SAML URL
 saml_url = f"https://{VPN_HOST}/+webvpn+/index.html"
